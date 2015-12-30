@@ -1,4 +1,4 @@
-var app = angular.module("angular", []);
+var app = angular.module("app-name", []);
 app.controller("ctrl", function($scope){
-  $scope.name = "Adam Byrne"
+  $scope.name = "Angular Starter Template <hr/>"
 });
